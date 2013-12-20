@@ -1,0 +1,14 @@
+"id","description","chart_template_id:id","type_tax_use","name","type","amount","account_collected_id:id","account_paid_id:id","base_code_id:id","tax_code_id:id","ref_base_code_id:id","ref_tax_code_id:id","tax_sign","base_sign","ref_base_sign","ref_tax_sign","parent_id:id"
+"ST0","ST0","l10n_no","sale","Zero rated sales","percent",0,"ns2710","ns2710","t5","t1","t5","t1",1,1,-1,-1,
+"ST1","ST1","l10n_no","sale","Standard rate sales (17.5%)","percent","0.175","ns2710","ns2710","t5","t1","t5","t1",1,1,-1,-1,
+"ST2","ST2","l10n_no","sale","Exempt sales","percent",0,"ns2710","ns2710","t5","t1","t5","t1",1,1,-1,-1,
+"PT0","PT0","l10n_no","purchase","Zero rated purchases","percent",0,"ns2700","ns2700","t6","t3","t6","t3",1,1,-1,-1,
+"PT1","PT1","l10n_no","purchase","Standard rate purchases (17.5%)","percent","0.175","ns2700","ns2700","t6","t3","t6","t3",1,1,-1,-1,
+"PT2","PT2","l10n_no","purchase","Exempt purchases","percent",0,"ns2700","ns2700","t6","t3","t6","t3",1,1,-1,-1,
+"PT8","PT8","l10n_no","purchase","Standard rated purchases from EC","percent","0.175","ns2700","ns2700","t8","t2","t8","t2",1,1,-1,-1,
+"PT8R","PT8R","l10n_no","purchase","Reverse EC Purchase VAT","percent",-1,"ns2700","ns2700",,"t3","t3",,-1,-1,1,1,"PT8"
+"PT5","PT5","l10n_no","purchase","Lower rate purchases (5%)","percent","0.05","ns2700","ns2700","t6","t3","t6","t3",1,1,-1,-1,
+"ST4","ST4","l10n_no","sale","Sales to customers in EC","percent",0,"ns2710","ns2710","t7",,"t7",,1,1,-1,-1,
+"PT7","PT7","l10n_no","purchase","Zero rated purchases from EC","percent",0,"ns2700","ns2700","t8",,"t8",,1,1,-1,-1,
+"ST11","ST11","l10n_no","sale","Standard rate sales (20%)","percent","0.2","ns2710","ns2710","t5","t1","t5","t1",1,1,-1,-1,
+"PT11","PT11","l10n_no","purchase","Standard rate purchases (20%)","percent","0.2","ns2700","ns2700","t6","t3","t6","t3",1,1,-1,-1,

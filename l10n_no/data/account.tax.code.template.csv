@@ -1,0 +1,10 @@
+"id","name","code","parent_id:id","notprintable","sign"
+"t0","UK HMRC VAT","tax0",,,1
+"t4","Net VAT to be paid/reclaimed","tax5","t0","FALSE",1
+"t5","Total value of sales ex VAT (box 8 included)","tax6","t0","FALSE",0
+"t6","Total value of purchases ex VAT","taxt7","t0","FALSE",0
+"t8","Total value of EC purchases, ex VAT","tax9","t0","FALSE",0
+"t1","VAT on Sales and other outputs","tax1","t4","FALSE",1
+"t2","VAT on acquisitions from other EC Member states","tax2","t4","FALSE",1
+"t3","VAT reclaimed on purchases (EC included)","tax4","t4","FALSE",-1
+"t7","Total value of EC sales, ex VAT","tax8","t5","FALSE",1
