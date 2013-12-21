@@ -1,6 +1,6 @@
 # Translation of OpenERP Server.
 # This file contains the translation of the following modules:
-#	* l10n_uk
+#	* l10n_no
 #
 msgid ""
 msgstr ""
@@ -15,63 +15,63 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
-#. module: l10n_uk
-#: model:account.account.type,name:l10n_uk.account_type_receivable
+#. module: l10n_no
+#: model:account.account.type,name:l10n_no.account_type_receivable
 msgid "Receivable"
 msgstr ""
 
-#. module: l10n_uk
-#: model:account.account.type,name:l10n_uk.account_type_current_assets
+#. module: l10n_no
+#: model:account.account.type,name:l10n_no.account_type_current_assets
 msgid "Current Assets"
 msgstr ""
 
-#. module: l10n_uk
-#: model:account.account.type,name:l10n_uk.account_type_profit_and_loss
+#. module: l10n_no
+#: model:account.account.type,name:l10n_no.account_type_profit_and_loss
 msgid "Profit and Loss"
 msgstr ""
 
-#. module: l10n_uk
-#: model:account.account.type,name:l10n_uk.account_type_output_tax
+#. module: l10n_no
+#: model:account.account.type,name:l10n_no.account_type_output_tax
 msgid "Output Tax"
 msgstr ""
 
-#. module: l10n_uk
-#: model:account.account.type,name:l10n_uk.account_type_equity
+#. module: l10n_no
+#: model:account.account.type,name:l10n_no.account_type_equity
 msgid "Equity"
 msgstr ""
 
-#. module: l10n_uk
-#: model:account.account.type,name:l10n_uk.account_type_payable
+#. module: l10n_no
+#: model:account.account.type,name:l10n_no.account_type_payable
 msgid "Payable"
 msgstr ""
 
-#. module: l10n_uk
-#: model:account.account.type,name:l10n_uk.account_type_fixed_assets
+#. module: l10n_no
+#: model:account.account.type,name:l10n_no.account_type_fixed_assets
 msgid "Fixed Assets"
 msgstr ""
 
-#. module: l10n_uk
-#: model:account.account.type,name:l10n_uk.account_type_income
+#. module: l10n_no
+#: model:account.account.type,name:l10n_no.account_type_income
 msgid "Income"
 msgstr ""
 
-#. module: l10n_uk
-#: model:account.account.type,name:l10n_uk.account_type_current_liabilities
+#. module: l10n_no
+#: model:account.account.type,name:l10n_no.account_type_current_liabilities
 msgid "Current Liabilities"
 msgstr ""
 
-#. module: l10n_uk
-#: model:account.account.type,name:l10n_uk.account_type_input_tax
+#. module: l10n_no
+#: model:account.account.type,name:l10n_no.account_type_input_tax
 msgid "Input Tax"
 msgstr ""
 
-#. module: l10n_uk
-#: model:account.account.type,name:l10n_uk.account_type_expense
+#. module: l10n_no
+#: model:account.account.type,name:l10n_no.account_type_expense
 msgid "Expense"
 msgstr ""
 
-#. module: l10n_uk
-#: model:account.account.type,name:l10n_uk.account_type_view
+#. module: l10n_no
+#: model:account.account.type,name:l10n_no.account_type_view
 msgid "View"
 msgstr ""
 

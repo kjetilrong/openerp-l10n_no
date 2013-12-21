@@ -24,13 +24,13 @@
     'version': '1.0',
     'category': 'Localization/Account Charts',
     'description': """
-Norsk kontoplan NO OpenERP localisation necessary to run OpenERP accounting for UK SME's with:
+Norsk kontoplan NO OpenERP localisation necessary to run OpenERP accounting for NO SME's with:
 =================================================================================================
     - NS4102 chart of accounts
     - ready tax structure
     - a few other adaptations""",
-    'author': 'krong',
-    'website': 'http://www.smartmode.co.uk',
+    'author': 'stedy6',
+    'website': 'http://www.nn.nn.no',
     'depends': ['base_iban', 'base_vat', 'account_chart'],
     'data': [
         'data/account.account.template.csv',
