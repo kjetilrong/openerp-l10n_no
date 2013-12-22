@@ -20,13 +20,13 @@
 
 
 {
-    'name': 'no - Accounting',
+    'name': 'norwegian - Accounting',
     'version': '1.0',
     'category': 'Localization/Account Charts',
     'description': """
 Norsk kontoplan NO OpenERP localisation necessary to run OpenERP accounting for NO SME's with:
 =================================================================================================
-    - NS4102 chart of accounts
+    - Standard chart of accounts
     - ready tax structure
     - a few other adaptations""",
     'author': 'stedy6',
