@@ -12,5 +12,5 @@
 "PT5","PT5","l10n_no","purchase","Lower rate purchases (5%)","percent","0.05","ns2710","ns2710",6,3,6,3,1,1,-1,-1,
 "ST4","ST4","l10n_no","sale","Sales to customers in EC","percent",0,"ns2700","ns2700",7,,7,,1,1,-1,-1,
 "PT7","PT7","l10n_no","purchase","Zero rated purchases from EC","percent",0,"ns2710","ns2710",8,,8,,1,1,-1,-1,
-"ST11","ST11","l10n_no","sale","Standard rate sales (20%)","percent","0.2","ns2700","ns2700",5,1,5,1,1,1,-1,-1,
-"PT11","PT11","l10n_no","purchase","Standard rate purchases (20%)","percent","0.2","ns2710","ns2710",6,3,6,3,1,1,-1,-1,
+"ST11","ST11","l10n_no","sale","Standard MVA salg (høy)","percent","0.25","ns2700","ns2700",5,1,5,1,1,1,-1,-1,
+"PT11","PT11","l10n_no","purchase","Standard MVA kjøp (høy)","percent","0.25","ns2710","ns2710",6,3,6,3,1,1,-1,-1,
